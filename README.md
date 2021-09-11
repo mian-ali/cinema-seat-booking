@@ -1,1 +1,1 @@
-# Movie Theate Booking
+# Movie Theater Booking
