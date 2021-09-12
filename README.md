@@ -18,3 +18,6 @@ Design inspiration from [Dribbble](https://dribbble.com/shots/3628370-Movie-Seat
 
 
 [Click Button and View Project `Demo`](https://mian-ali.github.io/cinema-seat-booking/)
+
+## `browser URL`
+(https://mian-ali.github.io/cinema-seat-booking/)
